@@ -35,7 +35,6 @@ dots.forEach((dot, index) => {
     });
 });
 
-
 //F.A.Q
 document.addEventListener("DOMContentLoaded", function () {
     const items = document.querySelectorAll(".FAQ__item");
